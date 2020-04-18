@@ -1,0 +1,1 @@
+# DigiKam.AppImage
